@@ -1,0 +1,8 @@
+#! /bin/bash
+#
+
+echo "Hello $LOGNAME"
+echo "This is my First Shell Program"
+echo "The host name is $HOSTNAME"
+echo "My present working directory `pwd`"
+echo "$LOGNAME"

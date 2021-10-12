@@ -1,0 +1,5 @@
+#! /bin/bash
+#
+
+echo "welcome vinoth kumar"
+ls ../sys-program
